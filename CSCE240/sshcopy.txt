@@ -1,0 +1,3 @@
+ssh -p222 ikruger@L-1D43-01.cse.sc.edu
+
+to run do g++ hello.cc to compile then ./a.out
